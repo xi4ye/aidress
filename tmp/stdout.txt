@@ -1,0 +1,8 @@
+ 驱动器 D 中的卷没有标签。
+ 卷的序列号是 FA96-4DFD
+
+ D:\chengxu\aidress\stable_disfusion\venv\Scripts 的目录
+
+2024/12/16  19:04           270,616 python.exe
+               1 个文件        270,616 字节
+               0 个目录 201,696,112,640 可用字节
