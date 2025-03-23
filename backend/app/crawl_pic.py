@@ -11,7 +11,7 @@ def submit_try_on_task(clothe):
     
     img_dir = os.path.join(os.getcwd(),'backend','app','uploads',clothe)
     # 配置参数
-    API_KEY = "lSDoue50U67kFIicDASdV1BgQ122Gbsxip4La9wmBvJnThuWZd0ozKJ8MvbHjqCH"  # 替换为你的API密钥
+    API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"  # 替换为你的API密钥
     API_ENDPOINT = "https://www.ailabapi.com/api/portrait/editing/try-on-clothes"
 
     # 文件路径（需替换为实际路径）
