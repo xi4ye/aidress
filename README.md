@@ -62,7 +62,7 @@ webui-user.bat
 
 然后你就可以换衣服了
 浏览器输入localhost:8080/
-<img src="D:\chengxu\aidress\lookme.png" alt="lookme" style="zoom:25%;" />
+<img src="lookme.png" alt="lookme" style="zoom:25%;" />
 
 ####  注意，这个项目是第一版，还不支持连续生成多个换衣图片，只能一个一个生成，而且只能刷新来重新生成下个图片，下一版本会加入登录和历史记录功能
 
