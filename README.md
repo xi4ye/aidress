@@ -3,8 +3,11 @@
 本项目是一个ai生成模特兼换汉服的网站，其中换汉服调用外部api接口，自行获取api密钥，这是网址
 https://www.ailabtools.com/zh-cn/virtual-try-on-clothes
 
+## 注意，这个仓库下只包含代码文件，生成图片的ai模型并不在里面
+
 以下是安装过程，分为前端后端以及本地部署生成模特的模型这三个部分
  照着输入
+
 ```
 npm install
 ```
@@ -61,7 +64,7 @@ webui-user.bat
 浏览器输入localhost:8080/
 <img src="D:\chengxu\aidress\lookme.png" alt="lookme" style="zoom:25%;" />
 
-####  注意，这个项目是第一版，还不支持连续生成多个换衣图片，只能一个一个生成，而且只能刷新来重新生成下个图片
+####  注意，这个项目是第一版，还不支持连续生成多个换衣图片，只能一个一个生成，而且只能刷新来重新生成下个图片，下一版本会加入登录和历史记录功能
 
 这个是前端框架，可以自行了解
  Customize configuration
